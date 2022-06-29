@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog
 from PyQt5.QtGui import QPixmap, QIcon
-from main_window import Ui_mainWindow
+from interfaces.main_window import Ui_mainWindow
 from pathlib import Path
 from PIL import Image
 
